@@ -1,4 +1,4 @@
-# Image Colorization
+# Gray2Vivid
 
 ## Project Description
 
